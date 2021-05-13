@@ -1,7 +1,8 @@
-  body {
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,600,600i,700'); 
+
+body {
    padding-left: 11em;
-   font-family: Georgia, "Times New Roman",
-          Times, serif;
+   font-family: Crimson Text;
 		  color: purple;
     background-color: #ffffff; }
 	 ul.navbar {
