@@ -1,3 +1,2 @@
 # CTiS-Test
- Test Site
- Site set up to test out options and editing and Github features
+ Site repository used to store Group 1513's website relating to Artificial Intelligence in education.
