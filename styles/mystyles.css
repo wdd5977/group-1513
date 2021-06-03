@@ -4,7 +4,7 @@ body {
    padding-left: 11em;
    font-family: Crimson Text;
 		  color: purple;
-    background-color: #545454; }
+    background-color: rgb(250, 235, 215); }
 	 ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -17,7 +17,7 @@ body {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
 		ul.navbar li {
-    background: grey;
+    background: antiquewhite;
     margin: 0.5em 0;
     padding: 0.3em;
     border-right: 1em solid black }
